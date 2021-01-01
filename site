@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" lang="ru">
+        <title>Галлерея художника</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="icon" type="image" href="icon/icons8-папка-фотографий-64.png">
+    </head>
+    <body>
+        <header class="header">
+            <div class="overlay">
+              <h1 class="header-title">Моя галлерея</h1>
+            </div>
+          </header>
+        <section class="content">
+          <div class="card">
+            <img src="../site gallery my art/card/bebop.PNG" class="card-image">
+            <h3 class="card-title">Моя пока что любимая работа</h3>
+            <p class="card-text">Нарисовал ее вдохновляясь произведением "Ковбой Бибоп".</p>
+          </div> 
+          <div class="card no-right-margin">
+            <img src="card/HAVENAN.jpg" class="card-image">
+            <h3 class="card-title">Существо из игры Heaven</h3>
+            <p class="card-text">Был восхищен видом данного животного и решил нарисовать.</p>
+          </div>
+          <div class="card">
+            <img src="card/NtgaHa43xV8.jpg" class="card-image">
+            <h3 class="card-title">Мой самый первый арт</h3>
+            <p class="card-text">Я до сих пор помню как рисовал его мышкой.</p>
+          </div>
+          <div>
+            <div class="card no-right-margin">
+              <img src="card/Новый Холст.jpg" class="card-image">
+              <h3 class="card-title">Слизнекот</h3>
+              <p class="card-text">В память о великолепной и замечательной игре Rainworld.</p>
+            </div>
+            <div>
+        </section>
+        <footer class="footer">
+          <h4 class="footer-author">Я вас не звал, идите нахуй</h4>
+        </footer>
+    </body>
+</html>    
